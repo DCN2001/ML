@@ -1,7 +1,7 @@
 from config import get_config
 import dataloader.moisesdb_loader as dataloader
 from model.Trans_Attrc import Trans_Attrc 
-
+print("hello")
 import os
 import torch
 import matplotlib.pyplot as plt
